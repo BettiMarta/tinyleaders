@@ -312,7 +312,7 @@ header {
 
 .rule-60-cell{
     display: table-cell;
-    width: 60%;
+    width: 34%;
     text-align: center;
     vertical-align: middle;
     background-color: #F5F3EF;
@@ -322,7 +322,7 @@ header {
 
 .rule-30-cell{
     display: table-cell;
-    width: 30%;
+    width: 33%;
     text-align: center;
     vertical-align: middle;
     background-color: #232323;
@@ -331,7 +331,7 @@ header {
 
 .rule-10-cell{
     display: table-cell;
-    width: 10%;
+    width: 33%;
     text-align: center;
     vertical-align: middle;
     background-color: #fac6ff;
