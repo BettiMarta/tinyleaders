@@ -312,7 +312,7 @@ header {
 
 .rule-60-cell{
     display: table-cell;
-    width: 34%;
+    width: 25%;
     text-align: center;
     vertical-align: middle;
     background-color: #F5F3EF;
@@ -322,16 +322,26 @@ header {
 
 .rule-30-cell{
     display: table-cell;
-    width: 33%;
+    width: 25%;
     text-align: center;
     vertical-align: middle;
     background-color: #232323;
     height: 20vh;
 }
 
+.rule-5-cell{
+    display: table-cell;
+    width: 25%;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #F5F3EF;
+    border-radius: 30px 0 0 30px;
+    height: 20vh;
+}
+
 .rule-10-cell{
     display: table-cell;
-    width: 33%;
+    width: 25%;
     text-align: center;
     vertical-align: middle;
     background-color: #fac6ff;
@@ -358,6 +368,18 @@ header {
     color: white;
     cursor: pointer;
     justify-content: space-between;
+}
+
+.rule-5 {
+    height: 100%;
+    display: inline-flex; 
+    flex-direction: column;
+    color: #010101;
+    align-items: center;
+    cursor: pointer;
+    justify-content: space-between;
+    border-radius: 0 100px 30px 0;
+
 }
 
 .rule-10 {
@@ -398,6 +420,10 @@ header {
 #secondary{
     background-color: #232323;
     color: white;
+}
+
+#accent{
+    background-color: #ffffff;
 }
 
 #accent{
