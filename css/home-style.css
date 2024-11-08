@@ -552,7 +552,7 @@ header {
     border-radius: 30px;
     border: 2px solid black;
     border-radius: 100%;
-    transition: all 0.3s ease-in-out;
+   /* transition: all 0.3s ease-in-out;*/
 }
 
 .tools-img:hover {
