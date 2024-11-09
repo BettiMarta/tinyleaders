@@ -1,5 +1,3 @@
-// Notice
-window.alert("This website or its third-party tools use cookies, which are necessary for its functioning and required to achieve the purposes illustrated in the cookie policy.\n\nYou accept the use of cookies by closing this notice, by scrolling this page, by clicking a link or button or by continuing to browseotherwise.");
 
 // Pin Navigation and cover Button Up
 window.onscroll = function () { myFunction() };
